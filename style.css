@@ -26,10 +26,7 @@
    text-shadow: 1px black;
 }
 
-.custom-image {
-  width: 100%;
-  height: auto;
-}
+
 
 
   @media screen and (max-width:768px) {
